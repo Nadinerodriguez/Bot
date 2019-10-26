@@ -3796,3 +3796,7 @@ input, select, textarea {
    .fade:hover {
       opacity: 0.5;
       }
+.recycle-image{
+	border-color: black;
+	border-width: 2px;
+}
