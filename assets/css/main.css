@@ -125,7 +125,7 @@ input, select, textarea {
 	}
 
 	body, input, select, textarea {
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		font-family: Helvetica, sans-serif;
 		font-size: 17pt;
 		font-weight: 300;
 		line-height: 1.65;
@@ -2886,23 +2886,23 @@ input, select, textarea {
 		}
 
 			.statistics li.style1 {
-				background-color: #efa8b0;
+				background-color: #0d630d;
 			}
 
 			.statistics li.style2 {
-				background-color: #c79cc8;
+				background-color: #0769bf;
 			}
 
 			.statistics li.style3 {
-				background-color: #a89cc8;
+				background-color: #f4c63a;
 			}
 
 			.statistics li.style4 {
-				background-color: #9bb2e1;
+				background-color: #e24024;
 			}
 
 			.statistics li.style5 {
-				background-color: #8cc9f0;
+				background-color: brown;
 			}
 
 			.statistics li strong, .statistics li b {
