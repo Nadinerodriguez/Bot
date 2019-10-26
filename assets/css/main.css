@@ -208,10 +208,12 @@ input, select, textarea {
 	h1 {
 		font-size: 2.5em;
 		line-height: 1.2;
+		color: #ffd11a;
 	}
 
 	h2 {
 		font-size: 1.5em;
+		color: #2eb82e;
 	}
 
 	h3 {
