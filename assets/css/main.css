@@ -383,7 +383,7 @@ input, select, textarea {
 		}
 
 		.row > .off-1 {
-			margin-left: 8.33333%;
+			margin-left: 0%;
 		}
 
 		.row > .col-2 {
@@ -2816,7 +2816,7 @@ input, select, textarea {
 	}
 
 		.features li {
-			width: calc(33.33333% - 2em);
+			width: calc(23.33333% - 2em);
 			margin-left: 2em;
 			margin-top: 3em;
 			padding: 0;
