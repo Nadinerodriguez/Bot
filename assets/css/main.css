@@ -2639,7 +2639,7 @@ input, select, textarea {
 	}
 
 	header.major {
-		margin-bottom: 3em;
+		margin-bottom: 2em;
 	}
 
 		header.major h2 {
@@ -2902,7 +2902,7 @@ input, select, textarea {
 			}
 
 			.statistics li.style5 {
-				background-color: brown;
+				background-color: #FCD32D;
 			}
 
 			.statistics li strong, .statistics li b {
